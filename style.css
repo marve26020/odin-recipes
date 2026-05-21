@@ -1,0 +1,45 @@
+html {
+  background-color: lightpink;
+  font-family: cursive;
+  display: block;
+}
+.index,
+link {
+  text-align: center;
+}
+/* li{
+    list-style: none;
+    
+} */
+h1 {
+  text-align: center;
+}
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 100%;
+}
+.list,
+one {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+
+.list li {
+  padding: 20px;
+  margin: 100px;
+  background-color: rgb(245, 160, 174);
+}
+/* .sh a{
+     outline: 2px solid red;
+   background-color: rgb(243, 137, 154);
+     padding: 8px;
+     margin: 20px;
+} */
+.sh a {
+  /* outline: 2px solid red; */
+  margin: 100px;
+  padding: 20px;
+}
